@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/_7AIc9IAYGo'
-datePublished: '2016-04-13T19:17:01.060Z'
-dateModified: '2016-04-13T19:17:00.645Z'
+datePublished: '2016-04-13T19:29:42.477Z'
+dateModified: '2016-04-13T19:23:43.928Z'
 title: ''
 author: []
 authors: []
@@ -23,5 +23,6 @@ _type: Article
 
 ---
 [https://youtu.be/\_7AIc9IAYGo][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba653d0f-8ab8-4109-ad38-03cb5ea6d353.png)
 
 [0]: null

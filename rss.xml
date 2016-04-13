@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ascension Nootropic]]></title>
         <description><![CDATA[Ascension Nootropic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dna-evolve/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 03:29:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 03:31:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dna-evolve/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/978e4550-346b-483f-9af8-d4681418239b.png">]]></description>
-            <link>undefined5efeb43b-f177-425d-901e-bdc568bdaf39/index.html</link>
+            <link>https://thegrid.ai/dna-evolve/5efeb43b-f177-425d-901e-bdc568bdaf39/index.html</link>
             <guid isPermaLink="false">5efeb43b-f177-425d-901e-bdc568bdaf39</guid>
-            <pubDate>Wed, 13 Apr 2016 03:28:30 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 03:31:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

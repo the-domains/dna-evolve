@@ -1,0 +1,28 @@
+name: DNA Evolve
+favicon: null
+layout_spectrum: 0.9802956988569349
+typography_spectrum: 0.7877953164279461
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9568256640341133
+  lightness: 0.638546462636441
+  saturation: 0.04109458206221461
+  rhythmicContrast: 0.06298280647024512
+purpose: []
